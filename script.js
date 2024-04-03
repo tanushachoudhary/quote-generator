@@ -11,7 +11,7 @@ async function generate(url) {
 btn.addEventListener("click",()=>{
     generate(url);
 })
-
+generate(url);
 function tweet(){
     window.open("https://twitter.com/intent/tweet?text="+quote.innerHTML+"----by "+author.innerHTML,"Tweet Window","width=600,height=300");
 }

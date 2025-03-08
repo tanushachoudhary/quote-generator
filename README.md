@@ -34,12 +34,6 @@ A simple web-based Random Quote Generator using JavaScript that fetches and disp
 2. Displays the quote along with the author's name.
 3. Clicking the "New Quote" button fetches another random quote.
 
-## Demo
-[Live Demo](https://yourwebsite.com/random-quote-generator)
-
-## Screenshots
-![Screenshot](screenshot.png)
-
 ## Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request with improvements.
 
